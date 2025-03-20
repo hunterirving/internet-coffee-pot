@@ -1,6 +1,5 @@
 # Internet Coffee Pot
-
-An homage to the famous [Trojan Room Coffee Pot](https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot), the first webcam on the Internet.
+An homage to the famous [Trojan Room Coffee Pot](https://youtu.be/QB7qWQ9fn1k?t=58), the first webcam on the Internet.
 
 ## About the Original Trojan Room Coffee Pot
 
