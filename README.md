@@ -4,9 +4,13 @@ An homage to the famous [Trojan Room Coffee Pot](https://en.wikipedia.org/wiki/T
 
 ## About the Original Trojan Room Coffee Pot
 
+<img src="readme_images/webcamcoffee.jpeg"><br>
+
 As Quentin Stafford-Fraser, one of project's creators, [described it](https://www.cl.cam.ac.uk/coffee/qsf/coffee.html):
 
-> Some members of the 'coffee club' lived in other parts of the building and had to navigate several flights of stairs to get to the coffee pot; a trip which often proved fruitless if the all-night hackers of the Trojan Room had got there first. This disruption to the progress of Computer Science research obviously caused us some distress, and so XCoffee was born.
+> <i>Some members of the 'coffee club' lived in other parts of the building and had to navigate several flights of stairs to get to the coffee pot; a trip which often proved fruitless if the all-night hackers of the Trojan Room had got there first. This disruption to the progress of Computer Science research obviously caused us some distress, and so XCoffee was born.</i>
+
+<br><img src="readme_images/xcoffee.gif">
 
 ## About This Project
 
