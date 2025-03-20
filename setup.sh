@@ -14,7 +14,7 @@ echo "Installing required packages..."
 
 # Update and install dependencies
 apt update
-apt install -y python3-flask fswebcam python3-pip
+apt install -y python3-flask fswebcam python3-pip python3-pil
 
 # Get the directory where the setup script is located
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
