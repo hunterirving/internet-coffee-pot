@@ -109,4 +109,4 @@ To change the image resolution, modify the `-r` parameter in the `fswebcam` comm
 
 ## License
 
-GPLv3
+<a href="LICENSE">GPLv3</a>
