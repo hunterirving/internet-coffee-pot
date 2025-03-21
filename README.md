@@ -17,7 +17,7 @@ This implementation uses a USB webcam and a Raspberry Pi Zero W (or any other ma
 
 ## Quick Installation
 
-### 1. Clone the Repository
+### 1. Clone the Repo
 
 ```bash
 git clone https://github.com/hunterirving/internet-coffee-pot.git
@@ -36,7 +36,7 @@ The setup script will:
 - Configure the service to start on boot
 - Start the service immediately
 
-### 3. Access Your Coffee Pot
+### 3. Look at Coffee
 
 Open a web browser and navigate to:
 
@@ -101,16 +101,6 @@ sudo nano app.py
 ```
 
 Change the `WEBCAM_DEVICE` variable to match your camera (e.g., `/dev/video1`).
-
-### Modifying Image Resolution
-
-To change the image resolution, modify the `-r` parameter in the `fswebcam` commands within `app.py`. The default is 640x480.
-
-### Adjusting Image Contrast
-
-The app automatically enhances image contrast to improve visibility. To adjust the contrast level, edit the `CONTRAST_FACTOR` variable in `app.py`.
-
-A value of 1.0 means no change, values greater than 1.0 increase contrast (default is 1.5), and values between 0.0 and 1.0 decrease contrast.
 
 ## License
 
