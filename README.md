@@ -15,7 +15,10 @@ As Quentin Stafford-Fraser, one of the original project's creators, [described i
 
 This implementation uses a USB webcam and a Raspberry Pi Zero W (or any other machine you have lying around) to serve images of your coffee pot (or anything else) over your local network.
 
-## Quick Installation
+<img src="readme_images/mac_coffee.jpg">
+<figcaption><i>Remotely viewing upstairs coffee on an Internet-enabled Macintosh (with some help from <a href="https://github.com/hunterirving/macproxy_plus">MacProxy Plus</a>)</i></figcaption>
+
+## Setup
 
 ### 1. Clone the Repo
 
